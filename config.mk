@@ -1,6 +1,7 @@
 # SPDX-License-Identifier: BSD-2-Clause
 #
 # Copyright (c) Lewis Cook <lcook@FreeBSD.org>
+# Copyright (c) Cameron Himes <cameron.himes@hotmail.com>
 # All rights reserved.
 VERSION=	0.1.6
 PROGRAM=	pulsar
