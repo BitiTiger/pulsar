@@ -10,9 +10,9 @@ import (
 	"flag"
 	"fmt"
 
+	"github.com/BitiTiger/pulsar/internal/bot"
+	"github.com/BitiTiger/pulsar/internal/version"
 	nested "github.com/antonfisher/nested-logrus-formatter"
-	"github.com/bsdlabs/pulsar/internal/bot"
-	"github.com/bsdlabs/pulsar/internal/version"
 	log "github.com/sirupsen/logrus"
 )
 

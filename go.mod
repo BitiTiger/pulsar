@@ -1,4 +1,4 @@
-module github.com/bsdlabs/pulsar
+module github.com/BitiTiger/pulsar
 
 go 1.19
 

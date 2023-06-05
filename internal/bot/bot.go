@@ -9,10 +9,10 @@ package bot
 import (
 	"net/http"
 
-	"github.com/bsdlabs/pulsar/internal/bot/command"
-	"github.com/bsdlabs/pulsar/internal/pulse/hook/git"
-	"github.com/bsdlabs/pulsar/internal/util"
-	"github.com/bsdlabs/pulsar/internal/version"
+	"github.com/BitiTiger/pulsar/internal/bot/command"
+	"github.com/BitiTiger/pulsar/internal/pulse/hook/git"
+	"github.com/BitiTiger/pulsar/internal/util"
+	"github.com/BitiTiger/pulsar/internal/version"
 	"github.com/bwmarrin/discordgo"
 	"github.com/lcook/hookrelay"
 	log "github.com/sirupsen/logrus"

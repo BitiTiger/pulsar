@@ -13,7 +13,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/bsdlabs/pulsar/internal/util"
+	"github.com/BitiTiger/pulsar/internal/util"
 	"github.com/bwmarrin/discordgo"
 )
 
