@@ -41,7 +41,7 @@ GOFMT_CMD=	${BINDIR}/gofmt
 GOLANGCI_CMD=	${BINDIR}/golangci-lint
 GIT_CMD=	${BINDIR}/git
 
-GO_MODULE=	github.com/bsdlabs/pulsar
+GO_MODULE=	github.com/BitiTiger/pulsar
 GO_FLAGS=	-v -ldflags\
 		"-s -w -X ${GO_MODULE}/internal/version.Build=${VERSION}"
 
