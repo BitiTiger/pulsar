@@ -2,6 +2,7 @@
  * SPDX-License-Identifier: BSD-2-Clause
  *
  * Copyright (c) 2021-2022, Lewis Cook <lcook@FreeBSD.org>
+ * Copyright (c) 2023, Cameron Himes <cameron.himes@hotmail.com>
  * All rights reserved.
  */
 package git
