@@ -12,7 +12,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bsdlabs/pulsar/internal/util"
+	"github.com/BitiTiger/pulsar/internal/util"
 )
 
 const (

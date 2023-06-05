@@ -17,7 +17,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/bsdlabs/pulsar/internal/util"
+	"github.com/BitiTiger/pulsar/internal/util"
 	"github.com/bwmarrin/discordgo"
 	log "github.com/sirupsen/logrus"
 )
